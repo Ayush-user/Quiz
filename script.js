@@ -6,6 +6,8 @@ const questionStatus=document.querySelector(".question-status");
 const timerDisplay=document.querySelector(".time-duration");
 const resultContainer=document.querySelector(".result-container");
 
+//Just a test comment 
+
 //Quiz state variable
 const QUIZ_TIME_LIMIT=15;
 let currentTime=QUIZ_TIME_LIMIT;
